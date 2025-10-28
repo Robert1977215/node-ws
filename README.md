@@ -34,7 +34,21 @@ curl -Ls https://raw.githubusercontent.com/TownMarshal/node-ws/main/deploy.sh > 
 <img width="1920" height="869" alt="执行代码Snipaste_2025-10-27_07-21-31" src="https://github.com/user-attachments/assets/2aa39409-eabd-4466-8c47-d10894bb32a2" />
 <img width="1885" height="946" alt="域名UUID记住了Snipaste_2025-10-27_07-33-27" src="https://github.com/user-attachments/assets/24eac44e-7491-408c-b411-bbbbe16213fe" />
 <img width="1920" height="1027" alt="节点信息Snipaste_2025-10-27_07-35-05" src="https://github.com/user-attachments/assets/b7502196-fd64-4cb8-9ded-b27626131d35" />
-我的节点信息，我搞完就删了，嘻嘻
+
+开源协议说明（基于GPL）
+本项目遵循 GNU 通用公共许可证（GNU General Public License, 简称 GPL）发布，并附加以下说明：
+
+你可以自由地使用、复制、修改和分发本项目的源代码，前提是你必须保留原作者的信息及本协议内容；
+修改后的版本也必须以相同协议开源；
+未经原作者明确授权，不得将本项目或其任何部分用于商业用途。
+商业用途包括但不限于：
+
+将本项目嵌入到出售的软件、系统或服务中；
+通过本项目直接或间接获利（例如通过广告、SaaS服务等）；
+在公司或组织内部作为商业工具使用。
+如需获得商业授权，请联系原作者：[admin@eooce.com]
+
+版权所有 ©2025 eooce
 
 
 
